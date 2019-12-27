@@ -1,38 +1,15 @@
 ---
-title: Hello World
+title: 新篇章，新世界
+date: 2019-12-27 16:29:04
+tags:
+ - Hexo
+ - Markdown
+categories: 个人感想
+
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+​        在之前的hexo博客中写了50+篇文章，但其实质量都不是很高，可能百度解决起来都比之前文章阅读时间的少，正好之前的相关文档不幸丢失了，于是就重启hexo+github的博客生活，同时为了避免纯github pages有时导致的无法打开的情况，今后所有的博客文章同步发表在牛客网的博客中
 
-### Create a new post
+​        今后的每一篇文章我都会尽心尽力而为，不灌水，如果对文章有问题或者想要交流的小伙伴，可以加我的qq或给我发送邮件进行联系。
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+​        那么，加油！
