@@ -102,6 +102,15 @@ deploy:
   repo: https://github.com/PearFL/pearfl.github.io.git
   branch: master
 
+# 文章字数统计、浏览时长预测
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
+
+# 搜索
 search:
   path: search.xml
   field: post
